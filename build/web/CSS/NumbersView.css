@@ -1,0 +1,127 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 13, 2018, 11:18:41 AM
+    Author     : jafar.j
+*/
+
+div.searchers{
+    margin : auto;
+    width:500px;
+    margin-top: 50px;
+}
+
+
+div.searchers-name{
+    font-size: 25px;
+    width: 496px;
+    display: inline-block;
+}
+
+spawn.searchers-name-inscription{
+    color : black;
+    font-weight: bold;        
+    margin-left:219px;
+}
+
+
+input{
+    width: 495px;
+    border: 1px solid black;
+    font-size: 22px;
+}
+
+
+
+div.contacts{  
+  margin: auto;
+  margin-left: 28px;
+  margin-top: 50px;
+  font-size: 16px;
+  margin-bottom: 53px;
+}
+
+div.contacts-namings{
+  margin: auto;  
+  width:1600px; 
+}
+
+div.contacts-namings spawn{ 
+  color : black;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+spawn#contacts-namings-number{
+  margin-left:15px;
+}
+
+spawn#contacts-namings-name{
+  margin-left:100px;     
+} 
+
+
+spawn#contacts-namings-department{
+  margin-left:240px; 
+}
+
+spawn#contacts-namings-specialty{
+  margin-left:200px;  
+}
+
+spawn#contacts-namings-structure{
+ margin-left:180px;
+}
+
+spawn#contacts-namings-email{
+ margin-left:170px;
+}
+
+div.contacts-container{
+  margin: auto;
+  width:1600px;
+  background-color: rgb(255,255,255);
+  color : black;
+  font-weight: bold;
+}
+
+div.contacts-container-phone-user-number, div.contacts-container-phone-user-name,
+div.contacts-container-phone-user-department, div.contacts-container-phone-user-specialty,
+div.contacts-container-phone-user-structure, div.contacts-container-phone-user-email{
+    display: inline-block;
+    border: 1px solid black;   
+    margin-right: -5px;    
+}
+
+div.contacts-container-phone-user-number{
+    width: 50px;
+}
+
+div.contacts-container-phone-user-name{
+    width: 300px;    
+}
+
+div.contacts-container-phone-user-department{
+    width:350px;
+}
+
+div.contacts-container-phone-user-specialty{
+    width:300px;
+}
+
+div.contacts-container-phone-user-structure{
+    width:250px;
+}
+
+div.contacts-container-phone-user-email{
+    width:280px;
+}
+
+
+div.contacts-container spawn{
+    display: inline-block;
+    margin-left: 5px;
+}

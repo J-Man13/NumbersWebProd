@@ -1,0 +1,181 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2018, 1:46:44 PM
+    Author     : jafar.j
+*/
+
+div.searchers{
+    margin : auto;
+    width:500px;
+    margin-top: 50px;
+}
+
+
+div.searchers-name{
+    font-size: 28px;
+    width: 496px;
+    display: inline-block;
+}
+
+spawn.searchers-name-inscription{
+    color : black;
+    font-weight: bold;        
+    margin-left:219px;   
+}
+
+
+input{
+    width: 495px;
+    border: 1px solid black;
+    font-size: 22px;
+}
+
+div.contacts{  
+  margin: auto;
+  margin-left: 28px;
+  margin-top: 50px;
+  font-size: 20px;
+  margin-bottom: 53px;
+
+}
+
+div.contacts-container{
+  margin: auto;
+  width:2000px;
+  background-color: rgb(255,255,255);
+  color : black;
+  font-weight: bold; 
+}
+
+div.contacts-container-phone-user-number,div.contacts-container-phone-user-name,
+div.contacts-container-phone-user-name-aze,div.contacts-container-phone-user-department,
+div.contacts-container-phone-user-specialty,div.contacts-container-phone-user-structure,
+div.contacts-container-phone-user-email, div.contacts-container-phone-user-button{
+    display: inline-block;
+    border: 1px solid black;   
+    margin-top: 50px;
+}
+
+div.contacts-container-phone-user-number,div.contacts-container-phone-user-name{
+    margin-left: -5px;
+    height: 45px;
+    padding-top: 26px;
+    font-size: 22px;
+}
+div.contacts-container-phone-user-number,div.contacts-container-phone-user-name{
+    margin-left: -5px;
+    height: 46px;
+    padding-top: 26px;
+    font-size: 22px;
+}
+
+div.contacts-container-phone-user-name-aze{
+    margin-left: 20px;
+}
+
+div.contacts-container-phone-user-department,div.contacts-container-phone-user-specialty,
+div.contacts-container-phone-user-structure,div.contacts-container-phone-user-email,
+div.contacts-container-phone-user-button{
+    margin-left: -5px;
+}
+
+
+
+div.contacts-container-phone-user-number{
+    width: 55px;
+}
+
+
+div.contacts-container-phone-user-name{
+    width: 360px;    
+}
+
+div.contacts-container-phone-user-name-aze{
+    width: 350px;
+    height: 70px;
+}
+
+div.contacts-container-phone-user-name-aze input{
+    width: 330px;       
+}
+
+div.contacts-container-phone-user-department{
+    width:360px;
+    height: 70px;
+}
+div.contacts-container-phone-user-department input{
+    width:340px;
+}
+
+div.contacts-container-phone-user-specialty{
+    width:220px;
+    height: 70px;
+}
+
+div.contacts-container-phone-user-specialty input{
+    width:200px;
+}
+
+
+div.contacts-container-phone-user-structure{
+    width:250px;
+    height: 70px;
+}
+
+div.contacts-container-phone-user-structure input{
+    width:230px;
+}
+
+div.contacts-container-phone-user-email{
+    width:250px;
+    height: 70px;
+}
+
+div.contacts-container-phone-user-email input{
+    width:230px;
+}
+
+div.contacts-container-phone-user-button button{
+    height: 71px;
+    padding-top: 9px;
+    width: 90px;
+    color : rgba(255,255,255);
+    background-color: rgba(31,74,130);
+    border-color: rgba(31,74,130);
+}
+
+div.contacts-container input{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+div.contacts-container spawn{
+    display: inline-block;
+    margin-left: 6px;
+}
+
+
+
+spawn#fullname-desriptor{
+    padding-left: 80px; 
+}
+
+spawn#department-desriptor{
+    padding-left: 130px;    
+}
+
+spawn#specialty-desriptor{
+    padding-left: 70px;
+}
+
+spawn#structure-desriptor{
+    padding-left: 70px;    
+}
+
+spawn#email-desriptor{
+    padding-left: 100px;    
+}

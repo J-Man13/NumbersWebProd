@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2018, 10:07:22 AM
+    Author     : jafar.j
+*/
+
+
+div.container-secret-form{
+    margin-top: 80px;
+    margin-left: 600px;        
+}
+
+spawn.container-secret-form-fraze{
+    margin-left: 90px;
+    color : black;
+    font-weight: bold; 
+    font-size : 30px;
+}
+
+input{
+    margin-top: 20px;
+    width: 360px;
+    border: 1px solid black;
+    font-size: 22px;
+}
+
+div.container-invalid-secret{
+    margin-top: 10px;
+}
+
+spawn#container-secret-form-error{
+    margin:auto;
+    margin-left : 732.5px;
+    color: red;
+    display: none;
+}
+
+div.container-load-image{
+    margin:auto;
+    margin-top : 60px;
+    margin-left: 300px;
+}
+img#container-secret-form-load-image{
+    width: 300px;
+    height: 300px;    
+    margin-left : 330px; 
+    display: none;
+}
